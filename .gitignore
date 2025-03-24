@@ -1,5 +1,6 @@
 .DS_Store
 venv/
 __pycache__/
-dataset/data/
-!dataset/data/.gitkeep
+datasets/data/
+*.txt
+!requirements.txt
